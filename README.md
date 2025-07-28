@@ -32,6 +32,6 @@
 <h3 align="left">Idea:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma,clion" />
   </a>
 </p>

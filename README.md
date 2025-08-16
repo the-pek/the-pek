@@ -15,18 +15,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,cpp,postman,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,tailwind,angular,postman" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,angular,react,py,django,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,dotnet,react,py,django,postgres,mysql,git" />
   </a>
 </p>
 
 <h3 align="left">Idea:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma,clion" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,figma,clion,rider" />
   </a>
 </p>

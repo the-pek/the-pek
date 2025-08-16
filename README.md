@@ -15,17 +15,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,cpp,postman,git" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,angular,react,py,django" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,postgres,postman,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=tailwind,angular,react,py,django,postgres,mysql" />
   </a>
 </p>
 

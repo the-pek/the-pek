@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my skills improvement**
 
-- 🌱 I’m currently learning **Django, .Net, CyPress**
+- 🌱 I’m currently learning **Django, .Net, Spring Boot**
 
 - 🤔 I'm always looking for new challenges
 
